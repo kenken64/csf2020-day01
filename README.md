@@ -35,15 +35,25 @@
 ## Question 3
 
 a. True
+
 b. True
+
 c. False
+
 d. True
+
 e. False, is the main.ts
+
 f. True
+
 g. False , git add . , git commit -m "commit"
+
 h. False, same level as the component
+
 i. False , temp moved
+
 j. True
+
 k. False , let individual environment install the dependencies again.
 
 ## Question 4
