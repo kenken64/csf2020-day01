@@ -50,7 +50,7 @@ g. False , git add . , git commit -m "commit"
 
 h. False, same level as the component
 
-i. False , temp moved
+i. False , temp permanently
 
 j. True
 
